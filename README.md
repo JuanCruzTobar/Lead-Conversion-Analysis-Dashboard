@@ -7,6 +7,8 @@ Este repositorio contiene un tablero de análisis de conversión de leads creado
 
 La base de datos inicial fue procesada para ajustarse al formato UTF-8 y se acomodaron algunas columnas para una mejor visualización. Se crearon métricas y filtros para utilizar en el tablero en Looker Studio. El objetivo fue extraer y presentar información en un ejercicio simple de marketing basado en datos extraídos de un CRM.
 
+Enlace al tablero en Looker Studio : https://lookerstudio.google.com/reporting/352ddd75-6b1f-411d-80a2-eed02b76ed8e
+
 ### Características
 - Análisis comparativo de leads por canal de entrada (Inbound vs Outbound).
 - Cálculo de la tasa de conversión por canal y etapa del lead.
