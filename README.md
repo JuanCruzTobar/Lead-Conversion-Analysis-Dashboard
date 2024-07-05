@@ -14,5 +14,5 @@ La base de datos inicial fue procesada para ajustarse al formato UTF-8 y se acom
 - Mapa de calor para la distribución por canal y progresión en el tiempo de cierre de leads.
 
 ### Capturas de Pantalla
-![Dashboard de Conversión de Leads](ruta/a/tu/captura1.png)
-![Mapa de Calor](Lead Conversion Analysis Heatmap.png)
+![Dashboard](Lead%20Conversion%20Analysis%20dashboard.PNG)
+![Heatmap](Lead%20Conversion%20Analysis%20Heatmap.PNG)
