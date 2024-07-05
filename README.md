@@ -15,4 +15,4 @@ La base de datos inicial fue procesada para ajustarse al formato UTF-8 y se acom
 
 ### Capturas de Pantalla
 ![Dashboard de Conversión de Leads](ruta/a/tu/captura1.png)
-![Mapa de Calor](ruta/a/tu/captura2.png)
+![Mapa de Calor](Lead Conversion Analysis Heatmap.png)
